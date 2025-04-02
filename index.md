@@ -20,10 +20,10 @@
 * Full-stack procrastinator
 
 ## Current goals (in order of priority)
-1. - [] Arsenal to win Real Madrid
+1. [ ]  Arsenal to win Real Madrid
 2. ...
-3. - [] Become software engineer
-5. - [] Everything else
+3. [ ]  Become software engineer
+5. [ ]  Everything else
 
 ## My pets
 ![Cat Sima](/images/IMG_0055.jpeg)
